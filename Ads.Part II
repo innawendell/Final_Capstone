@@ -41,7 +41,7 @@
     "**Creation of the features with Word2Vec**\n",
     "- At this point, we will train Word2Vec model and evaluate it by a) checking most similar words to a random word (‘computer’) and b) creating a t-SNE plot and visually inspecting it.\n",
     "- Split our ads texts into training and test examples to be used for model training and evaluation.\n",
-    "- We will have to narrow down our vocabulary to the most frequently used words (this is not a requirement but rather a limitation that is caused by computation power of my local machine).\n",
+    "- We will have to narrow down our vocabulary to the most frequently used words (this is not a requirement but rather a limitation that is caused by computational power of my local machine).\n",
     "\n",
     "**RNN-specific steps**\n",
     "- We will create individual indices for each word in our narrowed-down vocabulary.\n",
