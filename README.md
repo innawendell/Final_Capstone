@@ -59,7 +59,7 @@ Russian  | Translation
 'фен philips низкая цена гарантия большой выбор быстрая доставка гарантия жми сравните цены всех интернет магазинов’|‘blow dryer phillips low price warranty large selection fast delivery warranty click (here) compare prices of all online stores
 
 #### Evaluation: :clipboard:
-Despite some noticeable glitches (overuse of certain frequent phrases like "compare prices of all internet stores", "directly from the manufacturer" and inappropriate insertion of words ('hp' in texts about knives, apartments, and hotels and '220 volt' in a text about hotels, the model still looks very promising because it has managed to produce grammatically correct forms (e.g. the genitive case after the prepositions "от" and "для"("from" and "for"), the prepositional case for "location". Additionally, it has learned some frequently used catch phrases within the advertising genre ("low prices", "warranty", "free delivery", "discounts", "sale", "10% off")
+Despite some noticeable glitches (overuse of certain frequent phrases like *"compare prices of all internet stores", "directly from the manufacturer"* and inappropriate insertion of words (*'hp'* in texts about knives, apartments, and hotels and *'220 volt'* in a text about hotels, the model still looks very promising because it has managed to produce grammatically correct forms (e.g. the genitive case after the prepositions *"от"* and *"для"*(*"from"* and *"for"*), the prepositional case for "location". Additionally, it has learned some frequently used catch phrases within the advertising genre (*"low prices", "warranty", "free delivery", "discounts", "sale", "10% off"*)
 
 #### Future Goals:
 * Refine the model and find metrics to measure its performance
