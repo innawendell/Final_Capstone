@@ -36,7 +36,7 @@ The data was obtained from: https://www.kaggle.com/kotobotov/context-advertising
 * XGBoost
 * Recurrent Neural Network (RNN): different preprocessing pipeline -  each wordvector is indexed in an embeddings matrix, which is used in an embeddings layer
 
-#### Supervised Models Best Results: :bar_chart:
+#### Supervised Models. Best Results: :bar_chart:
 * XGBoost: mean rank of the correct headline: **10.35**, proportion of the correct headlines in the top 3 results: **0.855**
 * RNN: mean rank of the correct headline: **10.835**, proportion of the correct headlines in the top 3 results: **0.79**
 
