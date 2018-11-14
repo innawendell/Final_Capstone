@@ -19,8 +19,8 @@ The data was obtained from: https://www.kaggle.com/kotobotov/context-advertising
 - [x]  Evaluation based on ranking
 
 #### Unsupervised Model Results: :bar_chart:
-- [x]  Mean rank of the correct headline: **16.98**
-- [x]  Proportion of the correct headlines in the top three results: **0.837**
+* Mean rank of the correct headline: **16.98**
+* Proportion of the correct headlines in the top three results: **0.837**
 
 ### Solution Two. Recommendation Systems - Supervised Approach :paperclip:
 
