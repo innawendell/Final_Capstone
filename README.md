@@ -11,7 +11,7 @@ Currently, humans write ads themselves, however, this genre has many "go-to" cli
 The data was obtained from: https://www.kaggle.com/kotobotov/context-advertising. The database was collected in October 2016 - January 2017. It contains ads from such countries as Russia, Ukraine, Belarus, and Kazakhstan and includes a variety of advertised product types and services.
 
 ### Solution One. Recommendation Systems - Unsupervised Approach :paperclip: 
-#### Stages
+#### Stages:
 - [x]  Lemmatize with Mystem parser
 - [x] Training Word2Vec
 - [x]  Creation of document vectors from word vectors
